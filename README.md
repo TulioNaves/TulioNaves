@@ -25,7 +25,3 @@ Estudante de Sistemas de Informação na UFV (Campus Rio Paranaíba).
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white)
 
-## 📌 Projetos em destaque
-- **[Biblioteca de Grafos](https://github.com/TulioNaves/trabalho-grafos)** (C++): BFS, DFS, Dijkstra e Bellman-Ford otimizado.
-- **[Pesquisa de Algoritmos](https://github.com/TulioNaves/PesquisaDeAlgoritmos)** (C++ e LaTeX): análise comparativa de cinco algoritmos de ordenação.
-- **[Calculadora de Surebet](https://github.com/TulioNaves/calculadora-arbitragem-surebet)** (React): calculadora de arbitragem esportiva.
