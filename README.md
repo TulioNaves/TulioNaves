@@ -28,9 +28,6 @@ Estudante de Sistemas de Informação na UFV (Campus Rio Paranaíba).
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 ![Weka](https://img.shields.io/badge/Weka-4B8BBE?style=flat)
 
-**Jogos:**
-![Pygame](https://img.shields.io/badge/Pygame-6AA84F?style=flat)
-
 **Ferramentas:**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
