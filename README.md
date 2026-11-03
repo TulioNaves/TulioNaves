@@ -37,37 +37,7 @@ Estudante de Sistemas de Informação na UFV (Campus Rio Paranaíba).
 
 ## Projetos
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/TulioNaves/HotPepper">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TulioNaves&repo=HotPepper&theme=dark" alt="HotPepper">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/TulioNaves/calculadora-arbitragem-surebet">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TulioNaves&repo=calculadora-arbitragem-surebet&theme=dark" alt="Calculadora de Surebet">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/TulioNaves/trabalho-grafos">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TulioNaves&repo=trabalho-grafos&theme=dark" alt="Biblioteca de Grafos">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/TulioNaves/-pima-diabetes-data-mining">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TulioNaves&repo=-pima-diabetes-data-mining&theme=dark" alt="Mineração de Dados: Pima Diabetes">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/TulioNaves/PesquisaDeAlgoritmos">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TulioNaves&repo=PesquisaDeAlgoritmos&theme=dark" alt="Pesquisa de Algoritmos">
-      </a>
-    </td>
-    <td></td>
-  </tr>
-</table>
+| | |
+|---|---|
+| **[HotPepper](https://github.com/TulioNaves/HotPepper)**<br>E-commerce de molhos e conservas de pimenta, com API REST e frontend separado.<br><br>![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | **[Calculadora de Surebet](https://github.com/TulioNaves/calculadora-arbitragem-surebet)**<br>Calculadora de arbitragem esportiva para calcular stakes e lucros. [Demonstração](https://calculadora-arbitragem-surebet.vercel.app)<br><br>![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) |
+| **[Biblioteca de Grafos](https://github.com/TulioNaves/trabalho-grafos)**<br>Biblioteca com BFS, DFS, Dijkstra e Bellman-Ford otimizado, com benchmarks de tempo e memória.<br><br>![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) | **[Mineração de Dados: Pima Diabetes](https://github.com/TulioNaves/-pima-diabetes-data-mining)**<br>Estudo comparativo de classificação e clusterização, com artigo completo no repositório.<br><br>![Weka](https://img.shields.io/badge/Weka-4B8BBE?style=flat) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
