@@ -37,27 +37,37 @@ Estudante de Sistemas de Informação na UFV (Campus Rio Paranaíba).
 
 ## Projetos
 
-### HotPepper
-E-commerce de molhos e conservas de pimenta, com API REST em Laravel 12 e Sanctum, frontend em React 19 e Vite e Docker Compose.
-
-[Ver repositório](https://github.com/TulioNaves/HotPepper)
-
-### Calculadora de Surebet
-Calculadora de arbitragem esportiva para calcular stakes e lucros, com React, Vite, Tailwind CSS e Supabase.
-
-[Ver repositório](https://github.com/TulioNaves/calculadora-arbitragem-surebet) · [Demonstração](https://calculadora-arbitragem-surebet.vercel.app)
-
-### Biblioteca de Grafos
-Biblioteca C++ com BFS, DFS, Dijkstra e Bellman-Ford otimizado, com grafos ponderados e direcionados e benchmarks de tempo e memória.
-
-[Ver repositório](https://github.com/TulioNaves/trabalho-grafos)
-
-### Mineração de Dados: Pima Diabetes
-Estudo comparativo de classificação e clusterização no dataset Pima Indians Diabetes, com Weka e notebook em Python. Artigo completo no repositório.
-
-[Ver repositório](https://github.com/TulioNaves/-pima-diabetes-data-mining)
-
-### Pesquisa de Algoritmos
-Comparação de cinco algoritmos de ordenação em C++ com tempos medidos e relatório em LaTeX.
-
-[Ver repositório](https://github.com/TulioNaves/PesquisaDeAlgoritmos)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/TulioNaves/HotPepper">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TulioNaves&repo=HotPepper&theme=dark" alt="HotPepper">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/TulioNaves/calculadora-arbitragem-surebet">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TulioNaves&repo=calculadora-arbitragem-surebet&theme=dark" alt="Calculadora de Surebet">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/TulioNaves/trabalho-grafos">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TulioNaves&repo=trabalho-grafos&theme=dark" alt="Biblioteca de Grafos">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/TulioNaves/-pima-diabetes-data-mining">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TulioNaves&repo=-pima-diabetes-data-mining&theme=dark" alt="Mineração de Dados: Pima Diabetes">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/TulioNaves/PesquisaDeAlgoritmos">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TulioNaves&repo=PesquisaDeAlgoritmos&theme=dark" alt="Pesquisa de Algoritmos">
+      </a>
+    </td>
+    <td></td>
+  </tr>
+</table>
