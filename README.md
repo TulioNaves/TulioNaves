@@ -1,6 +1,6 @@
 # Olá! Eu sou o Túlio
 
-Estudante de Sistemas de Informação na UFV (Campus Rio Paranaíba).
+Estudante de Sistemas de Informação na UFV (Campus Rio Paranaíba) e técnico em Redes de Computadores pelo CEFET MG.
 
 ## Tecnologias
 
